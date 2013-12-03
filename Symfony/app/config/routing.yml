@@ -1,0 +1,4 @@
+jpsmith1981_sg:
+    resource: "@jpsmith1981SGBundle/Resources/config/routing.yml"
+    prefix:   /sdphp/
+

@@ -1,0 +1,8 @@
+jpsmith1981_sg_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: jpsmith1981SGBundle:Default:index }
+
+test_hello_spanish:
+    pattern:  /hola/{name}
+    defaults: { _controller: jpsmith1981SGBundle:Default:hola, name: "Usuario Aleatorio" }
+
